@@ -9,6 +9,7 @@ const nextConfig = {
   images: {
     unoptimized: true,
   },
+  output: 'export',  // স্ট্যাটিক এক্সপোর্ট চালু করলো
 }
 
 export default nextConfig
